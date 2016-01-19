@@ -1,0 +1,23 @@
+#kennelTitle {
+    text-align: center;
+    font-family: fantasy;
+    color: red;
+}
+
+.indexPic {
+    height: 30em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.changeToKennelMessage {
+    color: red;
+    text-align: center;
+    background-color: yellow;
+}
+
+.animalDisplayInfo {
+    word-wrap: break-word;
+    width: 40%;
+}
